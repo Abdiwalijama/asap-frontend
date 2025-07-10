@@ -1,0 +1,13 @@
+h1{
+    animation: pointer 1000ms infinite alternate-reverse;
+}
+
+@keyframes pointer{
+    0%{
+        transform: translateY(0);
+    }
+
+    100%{
+        transform: translateY(16px);
+    }
+}
