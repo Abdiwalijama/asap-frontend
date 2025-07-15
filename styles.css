@@ -11,3 +11,9 @@ h1{
         transform: translateY(16px);
     }
 }
+
+.fa-sharp-duotone {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
